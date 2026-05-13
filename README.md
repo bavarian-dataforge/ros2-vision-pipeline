@@ -48,4 +48,4 @@ USB Webcam → camera_node → /camera/image_raw → yolo_node → /yolo/detecti
 ## Author
 Florian Englmeier
 M.Eng. Electronic & Mechatronic Systems
-GitHub: VoltundDaten
+GitHub: bavarian-dataforge
